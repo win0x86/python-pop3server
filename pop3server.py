@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 import email
 from email.Utils import formatdate, make_msgid
 from uuid import uuid5, NAMESPACE_DNS
